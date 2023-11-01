@@ -27,7 +27,7 @@ A fullstack Node.js template that integrates a Next.js frontend with a stand alo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/template-next-express-auth0-ts-tailwind.git
+   git clone git@github.com:benjamin-chavez/nextjs-express-auth0-template.git
    cd template-next-express-auth0-ts-tailwind
    ```
 
