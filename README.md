@@ -77,6 +77,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 
 <!-- //////////////////////////////// -->
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 matcher: '/:path*',
-Meanwhile, the pattern `matcher: '/:path*',` specifies which route requests should be processed by the middleware. In this case, all of our routes.
+Meanwhile, the pattern `matcher: '/:path*',` specifies which route requests should be processed by the middleware. In this case, all of our routes. -->
