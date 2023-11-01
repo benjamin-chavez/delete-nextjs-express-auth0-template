@@ -11,7 +11,9 @@ This template is a companion to a detailed blog post that explains how to integr
 
 <!--
 ## INTEGRATING NEXT.JS WITH EXPRESS.JS USING AUTH0 FOR AUTHENTICATION
-A fullstack Node.js template that integrates a Next.js frontend with a stand alone Express.js Server and Auth0 authentication. This template is accompanied by blog post with details on how to build this template application. -->
+A fullstack Node.js template that integrates a Next.js frontend with a stand alone Express.js Server and Auth0 authentication. This template is accompanied by blog post with details on how
+
+to build this template application. -->
 
 
 ## Features
