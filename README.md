@@ -46,7 +46,7 @@ A fullstack Node.js template that integrates a Next.js frontend with a stand alo
 4. **Run the Development Server**
 
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
